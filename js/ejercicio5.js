@@ -1,7 +1,7 @@
 //Rubén Torres
 'use strict'
 
-let a = prompt('Escribe un número: ');
-let b = prompt('Escribe otro número: ');
+let a = parseInt(prompt('Escribe un número: '));
+let b = parseInt(prompt('Escribe otro número: '));
 
-document.write();
+document.write(a+b);
