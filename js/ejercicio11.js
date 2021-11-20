@@ -1,4 +1,13 @@
-//Rubén Torres
+/**
+*   @file ejercicio11.js
+*   @description Escribe un programa que pida una frase y escriba cuántas de las letras que tiene son vocales.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
+*/
 'use strict'
 
 //Variables
